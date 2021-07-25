@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "01-desafio"
+		},
+		{
+			"path": "dtmoney"
 		}
 	],
 	"settings": {}
