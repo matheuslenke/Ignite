@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "dtmoney"
+		},
+		{
+			"path": "ignews"
 		}
 	],
 	"settings": {}
