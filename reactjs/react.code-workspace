@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "ignews"
+		},
+		{
+			"path": "dashgo"
 		}
 	],
 	"settings": {}
